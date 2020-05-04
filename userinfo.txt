@@ -1,0 +1,19 @@
+﻿Username: admin
+password: 1234
+
+username: user
+password: 5678
+
+
+Courses:
+intro to software engineering
+digital logic
+intro to theory of computation
+
+Exam Grades:
+intro to software engineering:
+exam 1 – 85
+exam 2 – 74
+exam 3 – 92
+exam 4 - 89
+
